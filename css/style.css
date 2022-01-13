@@ -1,11 +1,12 @@
 /* PopUp */
+
 .popup {
   text-align: center;
   background-color: white;
   width: 1000px;
   height: 500px;
   padding: 30px 40px;
-  position: absolute;
+  position: fixed;
   transform: translate(-50%, -50%);
   left: 50%;
   top: 50%;
